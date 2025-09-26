@@ -20,7 +20,7 @@
 
 ## Usage
 
-[Click_Me](https://wmfong0.github.io/HTML_Little_Clock/)
+[Click Me](https://wmfong0.github.io/HTML_Little_Clock/)
 
 ## File Structure
 
