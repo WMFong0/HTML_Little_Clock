@@ -20,9 +20,7 @@
 
 ## Usage
 
-1. **Clone or download this repository.**
-2. Open `index.html` in any modern web browser.
-3. Enjoy your local time, beautifully displayed!
+[Click_Me](https://wmfong0.github.io/HTML_Little_Clock/)
 
 ## File Structure
 
